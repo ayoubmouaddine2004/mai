@@ -6,9 +6,9 @@ const client = {
 
     description: "hande made article white love.",
 
-    banner: "/client/maison crochet/images/baner1.png",
+    banner: "images/baner.png",
 
-    logo: "/client/maison crochet/images/logo1.png",
+    logo: "images/logo.png",
 
     phone: "+212700202866",
 
